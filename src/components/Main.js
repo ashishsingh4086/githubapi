@@ -3,8 +3,8 @@ import axios from 'axios';
 import User from './User';
 import UserInfo from './UserInfo';
 const URL = 'https://api.github.com/users/';
-const client_id = 'cd276167eade15e7fe83';
-const client_secret = '031eba14400b8b2458afef88d7cb646ea62dc0cc';
+const client_id = '';
+const client_secret = '';
 
 class Main extends Component {
   constructor(props) {
